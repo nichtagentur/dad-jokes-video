@@ -1,1 +1,0 @@
-/home/student/.claude/CLAUDE.md
